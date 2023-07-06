@@ -1,8 +1,11 @@
 import React from 'react'
+import Cards from '../cards/Cards.jsx';
 
 const Banner = () => {
   return (
-    <div>banner</div>
+    <div>
+      <Cards/>
+    </div>
   )
 }
 
